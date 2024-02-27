@@ -1,0 +1,14 @@
+{
+    "name": "my.openui5.webapp",
+    "version": "1.0.0",
+    "description": "my.openui5.webapp.description",
+    "scripts": {
+        "start": "ui5 serve -o index.html"
+    },
+    "devDependencies": {
+        "@ui5/cli": "^3.9.1"
+    },
+    "dependencies": {
+        "ui5-middleware-livereload": "^3.0.3"
+    }
+}
